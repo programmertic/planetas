@@ -1,0 +1,16 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: 'Pangolin', cursive;
+    background-image: url(https://i.pinimg.com/originals/10/26/bd/1026bd94da245209c96d5004ed45a04e.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: #59031e;
+}
+
+body h1
+{
+    color: #320157;
+}
